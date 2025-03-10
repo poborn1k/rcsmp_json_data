@@ -32,6 +32,17 @@
       "weight": "1 кг",
       "note": "Классический голландский сыр с нежным сливочным вкусом. Созревает 4 месяца.",
       "barcode": "https://i.imgur.com/R3qxNqm.jpeg"
+    },
+    {
+      "id": 4,
+      "product_code": "9274-762-XD",
+      "batch_code": "56283-9284-B",
+      "name": "бб",
+      "manufacturer": "АО 'Фермерские продукты'",
+      "expiration_date": "2025-07-10",
+      "weight": "500 г",
+      "note": "Натуральный йогурт с кусочками клубники, без добавления консервантов.",
+      "barcode": "https://i.imgur.com/R3qxNqm.jpeg"
     }
   ]
 }
