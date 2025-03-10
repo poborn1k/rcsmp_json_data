@@ -1,11 +1,34 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "hello"
+      "product_code": "1847-381-AB",
+      "batch_code": "94383-4983-C",
+      "name": "Молоко ультрапастеризованное 3,2%",
+      "manufacturer": "ООО 'Молочный мир'",
+      "expiration_date": "2025-06-15",
+      "weight": "3 кг",
+      "note": "Свежий и натуральный продукт, изготовленный из цельного коровьего молока. Хранить при температуре от 0 до +6°C.",
+      "barcode": "https://i.imgur.com/R3qxNqm.jpeg"
+    },
+    {
+      "product_code": "9274-762-XD",
+      "batch_code": "56283-9284-B",
+      "name": "Йогурт клубничный 2,5%",
+      "manufacturer": "АО 'Фермерские продукты'",
+      "expiration_date": "2025-07-10",
+      "weight": "500 г",
+      "note": "Натуральный йогурт с кусочками клубники, без добавления консервантов.",
+      "barcode": "https://i.imgur.com/R3qxNqm.jpeg"
+    },
+    {
+      "product_code": "5628-992-RT",
+      "batch_code": "12983-8347-T",
+      "name": "Твердый сыр 'Гауда'",
+      "manufacturer": "ООО 'Сырный дом'",
+      "expiration_date": "2025-09-20",
+      "weight": "1 кг",
+      "note": "Классический голландский сыр с нежным сливочным вкусом. Созревает 4 месяца.",
+      "barcode": "https://i.imgur.com/R3qxNqm.jpeg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
